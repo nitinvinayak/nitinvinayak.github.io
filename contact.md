@@ -5,7 +5,7 @@ title: Contact
 
 ## Email
 
- > Hey there! You can reach me at my [University Email](mailto:f20170415@pilani.bits-pilani.ac.in) 
+ > Hey there! You can reach me at my [Email](mailto:nvagrawal2701@gmail.com) 
 
 
 ## Linkedin
